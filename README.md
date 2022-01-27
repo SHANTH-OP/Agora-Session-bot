@@ -1,18 +1,18 @@
-# Pyrogram and Telethon String Session Bot [@StarkStringGenBot](https://t.me/StarkStringGenBot)
+# Pyrogram and Telethon String Session Bot [@StarkStringGenBot](https://t.me/agora_userbot)
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/StringSessionBot"><img src="https://telegra.ph/file/7ec22c82f580a334dd13e.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/SHANTH-OP"><img src="https://te.legra.ph/file/9d0b64f6382fed8c2b815.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ProfessorAgora)
 
 ## Usage
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Agora-forks/StringSessionBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHANTH-OP/Agora-Session-bot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,7 +23,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/StringSessionBot
+   git clone https://github.com/SHANTH-OP/Agora-Session-bot
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -31,7 +31,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 4. Enter the directory
    ```markdown
-   cd StringSessionBot
+   cd Agora-Session-bot
    ```
 5. Run the file
    ```markdown
