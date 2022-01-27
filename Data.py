@@ -12,10 +12,10 @@ If you don't trust this bot,
 1) stop reading this message
 2) delete this chat
 
-Still reading?
+Still reading? then join first @agora_userbot
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-By @StarkBots
+By @Agorabot_info
     """
 
     # Home Button
@@ -31,12 +31,12 @@ By @StarkBots
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/Agorabot_Info/7")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/Agorabot_info")],
     ]
 
     # Help Message
@@ -55,13 +55,13 @@ By @StarkBots
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to generate pyrogram and telethon string session by @StarkBots
+A telegram bot to generate pyrogram and telethon string session by @Agorabot_info
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/StringSessionBot)
+Source Code : [Click Here](https://github.com/StarkBotsIndustries/Agora-Session-bot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @agoraswamy_professor
     """
