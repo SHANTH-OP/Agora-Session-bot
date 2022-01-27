@@ -1,4 +1,4 @@
-# Pyrogram and Telethon String Session Bot [@StarkStringGenBot](https://t.me/agora_userbot)
+# PYROGRAM AND TELETHON STRING SESSION GENERATOR BOT [SUPPORT GROUP](https://t.me/agora_userbot)
 
 > A star ⭐ from you means a lot to us!
 
